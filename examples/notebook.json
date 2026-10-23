@@ -1,0 +1,16 @@
+{
+  "format": "lent-borrowed-notebook",
+  "version": 1,
+  "records": [
+    {
+      "item": "Blue camping lantern",
+      "person": "Alex",
+      "direction": "Lent to someone",
+      "date": "2026-11-15",
+      "notes": "Lantern, charging lead and carry case.",
+      "done": false,
+      "id": "example-1",
+      "attachments": []
+    }
+  ]
+}
